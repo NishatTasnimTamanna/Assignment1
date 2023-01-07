@@ -82,7 +82,7 @@ h3 {
 .again li {
     list-style: none;
     text-align: center;
-    padding-left: 200px;
+    padding: 100px;
 }
 
 .and-again {
