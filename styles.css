@@ -1,139 +1,171 @@
-*{
-    margin:0;
+* {
+    margin: 0;
     font-family: 'Work Sans';
 }
-.container{
+
+.container {
     text-align: right;
     background-image: url(images/banner/banner1.png);
     background-color: lightblue;
-    padding:30px 170px;
+    padding: 30px 170px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
-.container h1{
+
+.container h1 {
     margin-top: 216px;
     color: #151414;
 }
-.container-description{
+
+.container-description {
     color: #444343;
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.btn-first{
-    padding:10px;
+
+.btn-first {
+    padding: 10px;
     color: white;
     background-color: orangered;
-    border:0;
+    border: 0;
     margin-bottom: 166px;
     border-radius: 5px;
     font-weight: 700;
 }
-.another-container{
-    display:flex;
+
+.another-container {
+    display: flex;
     gap: 200px;
-    margin:100px 170px;
+    margin: 100px 170px;
 }
-.container-element{
+
+.another-container img {
+    width: 569px;
+    height: 723.3px;
+}
+
+.container-element {
     padding-top: 200px;
 }
-.container-element h2{
+
+.container-element h2 {
     padding-bottom: 20px;
     color: #151414;
 }
-.container-element p{
+
+.container-element p {
     padding-bottom: 15px;
     color: #444343;
 }
+
 .again {
     text-align: center;
 }
-h2{
+
+h2 {
     color: #151414;
     font-weight: 700;
 }
-h3{
+
+h3 {
     font-weight: 700;
     color: #151414;
 }
-.again p{
+
+.again p {
     font-weight: 500;
     color: #737272;
 }
-.again ul{
+
+.again ul {
     display: flex;
     text-align: center;
-    margin-top:50px
+    margin-top: 50px
 }
-.again li{
+
+.again li {
     list-style: none;
     text-align: center;
     padding-left: 250px;
 }
-.and-again{
+
+.and-again {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    margin:130px 230px;
-    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url(images/watch.png) no-repeat center/cover; 
+    margin: 130px 230px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url(images/watch.png) no-repeat center/cover;
 }
-.and-again h2{
-    color:white;
-    padding:60px;
+
+.and-again h2 {
+    color: white;
+    padding: 60px;
     font-weight: 700;
 }
-.btn-second{
-    padding:10px;
-    color:orangered;
+
+.btn-second {
+    padding: 10px;
+    color: orangered;
     background-color: white;
-    margin-left:60px;
+    margin-left: 60px;
     margin-bottom: 60px;
     font-weight: 700;
-    border:0;
+    border: 0;
     border-radius: 5px;
     font-weight: 700;
 }
-.last-container{
-    display:flex;
-    color:white;
+
+.last-container {
+    display: flex;
+    color: white;
     background-color: #151414;
-    padding:230px;
-    gap:300px;
+    padding: 230px;
+    gap: 300px;
 }
-.last-container h2{
-    color:white;
+
+.last-container h2 {
+    color: white;
     padding-bottom: 20px;
 }
-.last-container ul{
-    display:flex;
-    gap:20px;
+
+.last-container ul {
+    display: flex;
+    gap: 20px;
 }
-.last-container li{
+
+.last-container li {
     list-style: none;
 }
-.description{
+
+.description {
     padding-bottom: 20px;
 }
-.description-two{
+
+.description-two {
     padding-bottom: 10px;
 }
-.btn-third{
-    padding:10px;
-    color:orangered;
-    background-color: white;  
+
+.btn-third {
+    padding: 10px;
+    color: orangered;
+    background-color: white;
     font-weight: 700;
-    border:0;
-    border-radius: 5px; 
+    border: 0;
+    border-radius: 5px;
 }
-h4{
+
+h4 {
     font-weight: 700;
     padding-bottom: 10px;
 }
-.value{
+
+.value {
     margin-bottom: 10px;
 }
-footer{
+
+footer {
     text-align: center;
-    background-color:#151414 ;
-    color:white;
+    background-color: #151414;
+    color: white;
 }
