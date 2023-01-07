@@ -13,6 +13,7 @@
 }
 .container h1{
     margin-top: 216px;
+    color: #151414;
 }
 .container-description{
     color: #444343;
@@ -28,7 +29,7 @@
 }
 .another-container{
     display:flex;
-    gap: 500px;
+    gap: 350px;
     margin:100px 170px;
 }
 .container-element{
@@ -36,7 +37,28 @@
 }
 .container-element h2{
     padding-bottom: 20px;
+    color: #151414;
 }
 .container-element p{
     padding-bottom: 15px;
+    color: #444343;
+}
+.again {
+    text-align: center;
+}
+h2 ,h3{
+    font-weight: 700;
+}
+.again p{
+    font-weight: 500;
+}
+.again ul{
+    display: flex;
+    text-align: center;
+    margin-top:50px
+}
+.again li{
+    list-style: none;
+    text-align: center;
+    padding-left: 250px;
 }
