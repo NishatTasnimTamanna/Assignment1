@@ -36,13 +36,8 @@
 
 .another-container {
     display: flex;
-    gap: 200px;
+    gap: 100px;
     margin: 100px 170px;
-}
-
-.another-container img {
-    width: 569px;
-    height: 723.3px;
 }
 
 .container-element {
