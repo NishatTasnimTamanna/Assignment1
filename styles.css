@@ -27,6 +27,7 @@
     border:0;
     margin-bottom: 166px;
     border-radius: 5px;
+    font-weight: 700;
 }
 .another-container{
     display:flex;
@@ -57,6 +58,7 @@ h3{
 }
 .again p{
     font-weight: 500;
+    color: #737272;
 }
 .again ul{
     display: flex;
@@ -89,6 +91,7 @@ h3{
     font-weight: 700;
     border:0;
     border-radius: 5px;
+    font-weight: 700;
 }
 .last-container{
     display:flex;
@@ -128,4 +131,9 @@ h4{
 }
 .value{
     margin-bottom: 10px;
+}
+footer{
+    text-align: center;
+    background-color:#151414 ;
+    color:white;
 }
