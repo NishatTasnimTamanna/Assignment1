@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    font-family: 'Work Sans';
+}
+.container{
+    text-align: right;
+    background-image: url(images/banner/banner1.png);
+    background-color: lightblue;
+    padding:30px 170px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container h1{
+    margin-top: 216px;
+}
+.container-description{
+    color: #444343;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.btn-first{
+    padding:10px;
+    color: white;
+    background-color: orangered;
+    border:0;
+    margin-bottom: 166px;
+}
+.another-container{
+    display:flex;
+    gap: 500px;
+    margin:100px 170px;
+}
+.container-element{
+    padding-top: 200px;
+}
+.container-element h2{
+    padding-bottom: 20px;
+}
+.container-element p{
+    padding-bottom: 15px;
+}
